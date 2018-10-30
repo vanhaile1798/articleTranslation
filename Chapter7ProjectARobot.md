@@ -1,5 +1,6 @@
 Chú thích: (...)*: Ký hiệu giải thích của người dịch
-		    (...)**: Câu/Đoạn dịch cần được review
+
+		        (...)**: Câu/Đoạn dịch cần được review
 
 # CHƯƠNG 7
 
@@ -248,7 +249,7 @@ function routeRobot(state, memory) {
   }
   return {direction: memory[0], memory: memory.slice(1)};
 }
-``
+```
 
 Robot này đã nhanh hơn nhiều rồi. Nó sẽ mất số bước tối đa là 26 (2 lần con đường được xác định trước, con đường được xác định trước gồm 13 địa điểm, mất 13 bước để đi hết con đường này).
 
