@@ -1,12 +1,14 @@
-Chú thích: (...)*: Ký hiệu giải thích của người dịch
+Chú thích: 
 
-		        (...)**: Câu/Đoạn dịch cần được review
+(...)*: Ký hiệu giải thích của người dịch
+
+(...)**: Câu/Đoạn dịch cần được review
 
 # CHƯƠNG 7
 
 *"Câu hỏi Máy móc có thể suy nghĩ hay không cũng giống như là câu hỏi Tàu ngầm có thể lặn hay không."*
 
-- Edsger Dijkstra, *Mối đe dọa đối với ngành khoa học tính toán*
+Edsger Dijkstra, *Mối đe dọa đối với ngành khoa học tính toán*
 
 ![](https://eloquentjavascript.net/img/chapter_picture_7.jpg)
 
